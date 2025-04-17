@@ -1,0 +1,54 @@
+[2025-04-17 13:33:24] In Battle: False
+Duel Phase: DuelPhase.ended
+Combat windows found: 0
+Duel window found: False
+Battle state detection result: not_in_battle (speed: 2.0x)
+[2025-04-17 13:35:13] In Battle: True
+Duel Phase: DuelPhase.execution
+Combat windows found: 3
+Duel window found: False
+Battle state detection result: playing_animation (speed: 4.0x - is sped up)
+[2025-04-17 13:35:13] Battle began!
+[2025-04-17 13:35:13] Set speed to 4.0x (animation phase)
+[2025-04-17 13:35:13] In Battle: True
+Duel Phase: DuelPhase.execution
+Combat windows found: 3
+Duel window found: False
+Battle state detection result: playing_animation (speed: 4.0x - is sped up)
+[2025-04-17 13:35:13] Set speed to 4.0x (animation phase)
+[2025-04-17 13:35:13] In Battle: True
+Duel Phase: DuelPhase.execution
+Combat windows found: 3
+Duel window found: False
+Battle state detection result: playing_animation (speed: 4.0x - is sped up)
+[2025-04-17 13:35:13] Set speed to 4.0x (animation phase)
+[2025-04-17 13:35:13] In Battle: True
+Duel Phase: DuelPhase.execution
+Combat windows found: 3
+Duel window found: False
+Battle state detection result: playing_animation (speed: 4.0x - is sped up)
+[2025-04-17 13:35:13] Set speed to 4.0x (animation phase)
+[2025-04-17 13:35:34] In Battle: True
+Duel Phase: DuelPhase.execution
+Combat windows found: 3
+Duel window found: False
+Battle state detection result: playing_animation (speed: 4.0x - is sped up)
+[2025-04-17 13:35:34] Set speed to 4.0x (animation phase)
+[2025-04-17 13:35:34] In Battle: True
+Duel Phase: DuelPhase.execution
+Combat windows found: 3
+Duel window found: False
+Battle state detection result: playing_animation (speed: 4.0x - is sped up)
+[2025-04-17 13:35:34] Set speed to 4.0x (animation phase)
+[2025-04-17 13:35:34] In Battle: True
+Duel Phase: DuelPhase.execution
+Combat windows found: 3
+Duel window found: False
+Battle state detection result: playing_animation (speed: 4.0x - is sped up)
+[2025-04-17 13:35:34] Set speed to 4.0x (animation phase)
+[2025-04-17 13:35:35] In Battle: True
+Duel Phase: DuelPhase.execution
+Combat windows found: 3
+Duel window found: False
+Battle state detection result: playing_animation (speed: 4.0x - is sped up)
+[2025-04-17 13:35:35] Set speed to 4.0x (animation phase)

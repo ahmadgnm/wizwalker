@@ -1,5 +1,16 @@
 import time
 import os
+import tempfile
+import atexit
+
+lock_path = os.path.join(tempfile.gettempdir(), "wizwalker_battle_monitor.lock")
+def remove_lock():
+    if os.path.exists(lock_path):
+        try:
+            os.remove(lock_path)
+        except Exception:
+            pass
+atexit.register(remove_lock)
 
 def tail_log(filename):
     print("Battle Monitor Log Viewer")
